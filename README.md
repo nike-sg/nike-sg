@@ -49,12 +49,10 @@ I love technology and games.
 </p>
 <h2 align='center'>📊 Stats</h2>
 
-<a href="https://github-readme-stats.vercel.app/api?username=nike-sg&show_icons=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nike-sg&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nike-sg&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nike-sg&layout=compact&theme=tokyonight" />
-</a>
+
+<img align="center" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=nike-sg&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=nike-sg&layout=compact&theme=tokyonight" />
+
 <br/>
 <br/>
 
