@@ -2,8 +2,8 @@
 
 # 😆 Hi there
 
-This is my README and I will talk a little about myself.
-I was born in 1992, I have always been interested in robots. 
+This is my README and I will talk a little about myself.  
+I was born in 1992, I have always been interested in robots.  
 I love technology and games.
 
 ## 🤔 How to find me
