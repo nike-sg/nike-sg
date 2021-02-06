@@ -1,30 +1,50 @@
-<center>
+<h1 align='center'>
+  😆 Hi there
+</h1>
 
-# 😆 Hi there
-
+<p align='center'>
 This is my README and I will talk a little about myself.  
 I was born in 1992, I have always been interested in robots.  
 I love technology and games.
+</p>
 
-## 🤔 How to find me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolas.sugo@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-sugo-27114b20/)
-[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nike_sg/)
-
-
-
-## ⚙️ Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-</center>
-
+<h2 align='center'>🤔 How to find me</h2>
+<p align='center'>
+<a href="mailto:nikolas.sugo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nikolas-sugo-27114b20/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/nike_sg/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 
-## 🎓 Education
+<h2 align='center'>⚙️ Skills</h2>
+<p align='center'>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+
+</p>
+
+<details>
+  <summary>📄 Resume</summary>
+
+## 🎓 Education  
 - MBA in Full Stack Development  
 📍 Faculdade Impacta  
 🗓 October 2020 - DOING...
@@ -37,7 +57,7 @@ I love technology and games.
   📍 Faculdade Eniac, Guarulhos - Brazil  
   🗓 January 2010 - July 2012
 
-## 🎒 Courses
+## 📕 Courses
 - Objective-C programming language  
   📍 iai? Intituto de Artes Interativas, São Paulo - Brazil  
   🗓 January 2010 - January 2010  
@@ -46,12 +66,17 @@ I love technology and games.
   📍 São Paulo - Brazil  
   🗓 January 2012 - July 2014  
 
-
 ## 💼 Work
 - Backend Developer at SuperMatch  
   📍 São Paulo - Brazil  
   🗓 May 2017 - Present  
-  📎 Web Developer focused on the backend of native mobile apps dynamically managed by an administrative panel (CMS).
+  📎 Web Developer focused on the backend of native mobile apps dynamically managed by an administrative panel (CMS).  
+  Skills
+  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  
 
 - Backend Developer at Estudio86  
   📍 Guarulhos - Brazil  
@@ -62,3 +87,4 @@ I love technology and games.
   📍 São Paulo - Brazil  
   🗓 July 2011 - April 2013  
   📎 Web application development for intranet.
+</details>
