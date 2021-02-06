@@ -24,7 +24,9 @@ I love technology and games.
 
 ### 🎓 Education
 - MBA in Full Stack Development
+
   📍 Faculdade Impacta
+  
   🗓 October 2020 - DOING... 
 
 - Bachelor in Information Systems
