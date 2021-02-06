@@ -72,10 +72,7 @@ I love technology and games.
   🗓 May 2017 - Present  
   📎 Web Developer focused on the backend of native mobile apps dynamically managed by an administrative panel (CMS).  
   Skills
-  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
   
 
 - Backend Developer at Estudio86  
@@ -87,4 +84,9 @@ I love technology and games.
   📍 São Paulo - Brazil  
   🗓 July 2011 - April 2013  
   📎 Web application development for intranet.
+  Skills  
+  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
