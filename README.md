@@ -51,14 +51,14 @@ I love technology and games.
 - Backend Developer at SuperMatch  
   📍 São Paulo - Brazil  
   🗓 May 2017 - Present  
-  Web Developer focused on the backend of native mobile apps dynamically managed by an administrative panel (CMS).
+  📎 Web Developer focused on the backend of native mobile apps dynamically managed by an administrative panel (CMS).
 
 - Backend Developer at Estudio86  
   📍 Guarulhos - Brazil  
   🗓 May 2013 - April 2017  
-  Web Developer focused on the backend of websites dynamically managed by an administrative panel (CMS).
+  📎 Web Developer focused on the backend of websites dynamically managed by an administrative panel (CMS).
 
 - Intern at Dataprev  
   📍 São Paulo - Brazil  
   🗓 July 2011 - April 2013  
-  Web application development for intranet.
+  📎 Web application development for intranet.
