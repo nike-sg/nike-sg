@@ -49,7 +49,9 @@ I love technology and games.
 </p>
 <h2 align='center'>📊 Stats</h2>
 
-
+<a href="https://wakatime.com/@24777a6d-c1da-443e-803f-fe9efe2eed65">
+  <img src="https://wakatime.com/badge/user/24777a6d-c1da-443e-803f-fe9efe2eed65.svg" alt="Total time coded since Feb 28 2019" />
+</a>
 <img align="center" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=nike-sg&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=nike-sg&layout=compact&theme=tokyonight" />
 
