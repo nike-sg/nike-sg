@@ -12,12 +12,13 @@ I'm a passionate developer focused on creating innovative and effective solution
 
 I have experience in software development, working on projects such as Professional soccer team apps (Corinthians, Flamengo, São Paulo, Coritiba, Fortaleza e Romanian Football Federation). Some of the key roles I’ve held include:
 
-- Tech Lead at OneFan – I lead the development team, making technical decisions, reviewing code, and ensuring the delivery of high-quality solutions. I act as the main contact between technical and business teams, promoting best practices and optimizing processes to meet the company's needs.
-- Fullstack Developer at Crontype – Development of web solutions, integration with payment methods, integration with Google and Meta APIs, Pen Testing, Load Testing.
+- **Tech Lead at OneFan** – I lead the development team, making technical decisions, reviewing code, and ensuring the delivery of high-quality solutions. I act as the main contact between technical and business teams, promoting best practices and optimizing processes to meet the company's needs.
+- **Fullstack Developer at Crontype** – Development of web solutions, integration with payment methods, integration with Google and Meta APIs, Pen Testing, Load Testing.
 
 ## Contact
 
 You can reach me at:
+\
 [![Gmail](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:nikolas.sugo@gmail.com) [![Linkedin](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/nikolas-sugo/) [![Instagram](https://camo.githubusercontent.com/e2ad860f5db0900ef7a51420220056da4c8545a4cdc46af7f7411649a9c63493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/nike_sg/)
 
 ## Interests
