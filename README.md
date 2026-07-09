@@ -1,19 +1,21 @@
-# Hi, I'm Nikolas 😆
+# Hi, I'm Nikolas 👋
 
-I'm a passionate developer focused on creating innovative and effective solutions. Currently, I work as a FullStack Developer with a focus on Backend PHP.
+I'm a Tech Lead and Senior Backend Engineer specialized in building high-performance, scalable, and secure web applications. Currently, I bridge the gap between technical excellence and business strategy, with a strong focus on the PHP and MySQL/PostgreSQL ecosystem.
 
-## Skills
+## 🚀 What I Do
+- **Technical Leadership:** Leading multidisciplinary teams, architecting solutions, and aligning product vision with clean, maintainable code.
+- **High-Impact Dev:** Experienced in building robust backends, advanced URL routing/SEO architecture, third-party API integrations, and handling high-traffic environments.
+- **Performance & Security:** Skilled in load testing, optimization, and implementing secure coding standards.
 
-- **Programming Languages:** PHP, JavaScript
-- **Frameworks and Tools:** Docker, Laravel, React
-- **Databases:** MySQL, PostgreSQL
+## 🧰 Tech Stack & Tools
+- **Languages:** PHP (8.x), JavaScript / TypeScript
+- **Frameworks & Ecosystem:** Laravel, React, Node.js
+- **Databases & Infra:** MySQL, PostgreSQL, Docker, AWS
+- **Environment:** Advanced Unix/Zsh environments, asdf/version management, CI/CD pipelines
 
-## Experience
-
-I have experience in software development, working on projects such as Professional soccer team apps (Corinthians, Flamengo, São Paulo, Coritiba, Fortaleza e Romanian Football Federation). Some of the key roles I’ve held include:
-
-- **Tech Lead at OneFan** – I lead the development team, making technical decisions, reviewing code, and ensuring the delivery of high-quality solutions. I act as the main contact between technical and business teams, promoting best practices and optimizing processes to meet the company's needs.
-- **Fullstack Developer at Crontype** – Development of web solutions, integration with payment methods, integration with Google and Meta APIs, Pen Testing, Load Testing.
+## 💼 Featured Experience
+- **Tech Lead at Allp Fit:** Leading the development team, making critical architectural decisions, and optimizing processes to deliver high-quality business solutions.
+- **Enterprise Projects:** Engineered core solutions and apps for elite professional football clubs and federations, including Corinthians, Flamengo, São Paulo, Coritiba, Fortaleza, and the Romanian Football Federation.
 
 ## Contact
 
@@ -27,8 +29,8 @@ When I'm not coding, I enjoy games and animes. I’m always looking to learn mor
 
 ## Workspace
 
-- **Apple**: Macbook Pro 14" - M1 Pro 16Gb
-- **Windows**: AMD 3700X | Nvidia 4070 SUPER TI | 32Gb | 2TB SSD (Just to play TFT rs)
+- **Apple**: Macbook Pro 14" - M5 Pro 24Gb
+- **Windows**: AMD 5700X3D | Nvidia 4070 SUPER TI | 32Gb | 2TB SSD (Just to play TFT rs)
 
 ## Stats 
 [![Wakatiime](https://wakatime.com/badge/user/24777a6d-c1da-443e-803f-fe9efe2eed65.svg)](https://wakatime.com/@24777a6d-c1da-443e-803f-fe9efe2eed65)
